@@ -17,7 +17,7 @@
                 {
                     "src": "./assets/assets/images/SKILLHUB-192-192.png",
                     "type": "image/png",
-                    "sizes": "192X192"
+                    "sizes": "192x192"
                 }
             ]
         },
@@ -30,7 +30,7 @@
                 {
                     "src": "./assets/assets/images/SKILLHUB-192-192.png",
                     "type": "image/png",
-                    "sizes": "192X192"
+                    "sizes": "192x192"
                 }
             ]
         }
